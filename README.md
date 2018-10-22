@@ -1,5 +1,5 @@
 # UnknownFuck
-Brainfuck, but with all the characters from the UTC clan
+A programming language based on BrainFuck. It's not intended to be used seriously.
 ## Information:
 The unknownFuck.py file is an interpreter for the language.
 
