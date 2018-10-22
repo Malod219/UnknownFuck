@@ -1,0 +1,8 @@
+U-Add one
+T-Sub one
+C-Take in current byte
+?-Emit byte in current cell
+[-Loop start
+]-Loop end
+{-Left on tape
+}-Right on tape
